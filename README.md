@@ -9,6 +9,8 @@
 - [LINE - クリエイターズスタンプ](https://store.line.me/stickershop/showcase/top_creators/ja)
 
 
+![](https://raw.githubusercontent.com/andy-hiroyuki/mojiro/master/screenshot.png)
+
 #### マイルストーン
 
 -  8月末　 -- ラフ20種類 カラー 4種類
